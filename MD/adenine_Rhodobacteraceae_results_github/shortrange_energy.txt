@@ -1,0 +1,8 @@
+
+Statistics over 5000001 steps [ 0.0000 through 10000.0000 ps ], 2 data sets
+All statistics are over 1001 points (frames)
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Coul-SR:Protein-DA1        -58.2914        5.5    25.2426     31.198  (kJ/mol)
+LJ-SR:Protein-DA1          -94.0694        5.8    17.5701   -36.8031  (kJ/mol)
