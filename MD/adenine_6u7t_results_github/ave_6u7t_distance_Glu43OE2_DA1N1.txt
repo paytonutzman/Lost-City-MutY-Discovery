@@ -1,0 +1,4 @@
+resname "DA1" and name N1 plus resid 43 and name OE2:
+  Number of samples:  1001
+  Average distance:   0.52668  nm
+  Standard deviation: 0.04565  nm
